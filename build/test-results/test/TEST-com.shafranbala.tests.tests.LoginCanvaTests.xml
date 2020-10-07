@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.shafranbala.tests.tests.LoginCanvaTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-07T14:33:40" hostname="AiaDesktop" time="8.055">
+  <properties/>
+  <testcase name="loginCanvaNegativeTest" classname="com.shafranbala.tests.tests.LoginCanvaTests" time="8.055"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
